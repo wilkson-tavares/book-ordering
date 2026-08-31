@@ -1,0 +1,12 @@
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\bin\Debug\net10.0\BookOrdering.Domain.deps.json
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\bin\Debug\net10.0\BookOrdering.Domain.dll
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\bin\Debug\net10.0\BookOrdering.Domain.pdb
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\obj\Debug\net10.0\BookOrdering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\obj\Debug\net10.0\BookOrdering.Domain.AssemblyInfoInputs.cache
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\obj\Debug\net10.0\BookOrdering.Domain.AssemblyInfo.cs
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\obj\Debug\net10.0\BookOrdering.Domain.csproj.CoreCompileInputs.cache
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\obj\Debug\net10.0\BookOrdering.Domain.dll
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\obj\Debug\net10.0\refint\BookOrdering.Domain.dll
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\obj\Debug\net10.0\BookOrdering.Domain.pdb
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\obj\Debug\net10.0\ref\BookOrdering.Domain.dll
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Domain\obj\Debug\net10.0\BookOrde.7DB075D8.Up2Date

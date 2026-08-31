@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BookOrdering.Application/BookOrdering.Application.csproj" />
+  <Project Path="BookOrdering.ConsoleApp/BookOrdering.ConsoleApp.csproj" />
+  <Project Path="BookOrdering.Domain/BookOrdering.Domain.csproj" />
+  <Project Path="BookOrdering.Infrastructure/BookOrdering.Infrastructure.csproj" />
+  <Project Path="BookOrdering.Tests/BookOrdering.Tests.csproj" />
+</Solution>

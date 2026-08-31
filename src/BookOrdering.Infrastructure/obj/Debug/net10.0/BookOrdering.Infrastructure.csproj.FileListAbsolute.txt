@@ -1,0 +1,17 @@
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\bin\Debug\net10.0\BookOrdering.Infrastructure.deps.json
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\bin\Debug\net10.0\BookOrdering.Infrastructure.dll
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\bin\Debug\net10.0\BookOrdering.Infrastructure.pdb
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\bin\Debug\net10.0\BookOrdering.Application.dll
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\bin\Debug\net10.0\BookOrdering.Domain.dll
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\bin\Debug\net10.0\BookOrdering.Domain.pdb
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\bin\Debug\net10.0\BookOrdering.Application.pdb
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\obj\Debug\net10.0\BookOrdering.Infrastructure.csproj.AssemblyReference.cache
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\obj\Debug\net10.0\BookOrdering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\obj\Debug\net10.0\BookOrdering.Infrastructure.AssemblyInfoInputs.cache
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\obj\Debug\net10.0\BookOrdering.Infrastructure.AssemblyInfo.cs
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\obj\Debug\net10.0\BookOrdering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\obj\Debug\net10.0\BookOrde.B7DF3955.Up2Date
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\obj\Debug\net10.0\BookOrdering.Infrastructure.dll
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\obj\Debug\net10.0\refint\BookOrdering.Infrastructure.dll
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\obj\Debug\net10.0\BookOrdering.Infrastructure.pdb
+C:\sources\fgv-avaliação-técnica-TIC\src\BookOrdering.Infrastructure\obj\Debug\net10.0\ref\BookOrdering.Infrastructure.dll
